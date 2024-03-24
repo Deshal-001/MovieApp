@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3292250f.css",
-    "main.js": "/static/js/main.757d42fd.js",
-    "index.html": "/index.html",
-    "static/media/search.svg": "/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.3292250f.css.map": "/static/css/main.3292250f.css.map",
-    "main.757d42fd.js.map": "/static/js/main.757d42fd.js.map"
+    "main.css": "/Deshal-001/React-Movie-App/static/css/main.3292250f.css",
+    "main.js": "/Deshal-001/React-Movie-App/static/js/main.e17fcad0.js",
+    "index.html": "/Deshal-001/React-Movie-App/index.html",
+    "static/media/search.svg": "/Deshal-001/React-Movie-App/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.3292250f.css.map": "/Deshal-001/React-Movie-App/static/css/main.3292250f.css.map",
+    "main.e17fcad0.js.map": "/Deshal-001/React-Movie-App/static/js/main.e17fcad0.js.map"
   },
   "entrypoints": [
     "static/css/main.3292250f.css",
-    "static/js/main.757d42fd.js"
+    "static/js/main.e17fcad0.js"
   ]
 }
